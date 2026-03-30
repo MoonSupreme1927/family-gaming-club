@@ -1,0 +1,14 @@
+[
+  {
+    "username": "admin",
+    "password": "$2b$10$7u0W4rA8Jm5f9mR4nD7bNekS1A4YkXx8f9Q0cM8g6wV3nL2sP1u7K",
+    "balance": 1000,
+    "createdAt": "2026-03-29T12:00:00Z"
+  },
+  {
+    "username": "player1",
+    "password": "$2b$10$7u0W4rA8Jm5f9mR4nD7bNekS1A4YkXx8f9Q0cM8g6wV3nL2sP1u7K",
+    "balance": 250,
+    "createdAt": "2026-03-29T12:00:00Z"
+  }
+]
